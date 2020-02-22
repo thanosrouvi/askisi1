@@ -1,4 +1,4 @@
-pp2=[]
+p2=[]
 p=[]
 a=0
 fin=open("num.txt","w")
